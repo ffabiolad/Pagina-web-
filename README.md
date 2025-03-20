@@ -1,5 +1,5 @@
 # Pagina-web-
-Pagina web desarrollada con php, estática, con enfoque en la estética, responsividad y UX UI
+Pagina web desarrollada con php, estática, con enfoque en la estética, responsividad y UX UI, se incluyen factores como un blog, protección ante bots, spam e inyección sql.
 <h1>Página de inicio - Landing page</h1>
 <img width="1470" alt="Screenshot 2025-03-19 at 10 59 29 p m" src="https://github.com/user-attachments/assets/41bad2cc-7092-437d-99a4-ec07b51ebdbb" />
 <br>
