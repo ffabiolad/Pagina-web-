@@ -2,7 +2,7 @@
 Pagina web desarrollada con php, estática, con enfoque en la estética, responsividad y UX UI
 <h1>Página de inicio - Landing page</h1>
 <img width="1470" alt="Screenshot 2025-03-19 at 10 59 29 p m" src="https://github.com/user-attachments/assets/5f35ef54-a75e-4bb0-9549-bed92f2<img width="1470" alt="Screenshot 2025-03-19 at 10 59 37 p m" src="https://github.com/user-attachments/assets/df7bcf10-d243-4b57-a911-146ef94ea3ab" />
-71877" />
+71877"/>
 <br>
 <img width="1469" alt="Screenshot 2025-03-19 at 10 59 45 p m" src="https://github.com/user-attachments/assets/337b116b-b5f0-435f-b914-335a15912be2" />
 <br>
